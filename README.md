@@ -1,6 +1,6 @@
 # CLIP! 1.0.0
 
-<img src="images/long_logo.png" alt="CLIP-LOGO" width="760">
+<img src="long_logo.png" alt="CLIP-LOGO" width="760">
 
 **Protein–ligand interaction analysis and visualization in UCSF ChimeraX.**
 
