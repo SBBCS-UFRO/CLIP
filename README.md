@@ -19,7 +19,9 @@ labels, and rendering.
 3.1 Or when you are inside the platform use;
    
 > toolshed install /Users/"your_user"/Downloads/CLIP-1.0.0/install/chimerax_clip-1.0.0-py3-none-any.whl
+
 and
+
 > ui tool show "CLIP!"
 
 4. Choose your language, open a protein–ligand complex, and click **Analyze structure**.
