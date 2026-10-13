@@ -1,0 +1,10 @@
+# CLIP! 1.0.0 distribution support.
+# ChimeraX plugin manifest: chimerax/bundle_info.xml
+# CLIP! release ZIP and SHA256 inventory: chimerax/package_release.py
+# This setuptools manifest packages the analysis engine used by setup_backend.py.
+# See MANIFEST.md for the complete CLIP! distribution inventory.
+recursive-include plip *.py
+include *.txt
+include *.md
+include upstream/DOCUMENTATION_PLIP.md
+prune plip/test
